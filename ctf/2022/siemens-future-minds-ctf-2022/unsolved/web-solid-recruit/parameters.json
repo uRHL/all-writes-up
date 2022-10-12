@@ -1,0 +1,12 @@
+{
+	"full_name": "full_name",
+	"phone": "phone",
+	"birth_date": "birth_date",
+	"gender": "gender",
+	"address_1": "address_1",
+	"address_2": "address_2",
+	"city": "city",
+	"state": "state",
+	"zip": "zip",
+    "biography": "biography"
+}

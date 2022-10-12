@@ -1,0 +1,14 @@
+computer architecture
+    assembly programming
+    OS design
+    Distributed systems
+cybersecurity
+    simple cracking challenge
+
+Development
+    dusty-miner
+    job-genius
+    bomberman-game
+
+Databases
+    mm-iMDb

@@ -1,0 +1,85 @@
+{
+  "passwords": [
+    {
+      "id": 1,
+      "uuid": 73,
+      "type": "Web",
+      "address": "maxpass-manager.infra",
+      "username": "admin",
+      "password": "RV2pGXQBf8eGlHF",
+      "note": "pre-prod test password"
+    },
+    {
+      "id": 2,
+      "uuid": 141,
+      "type": "Web",
+      "address": "spotify.com",
+      "username": "louisbarnett",
+      "password": "YMgC41@)pT+BV",
+      "note": "student sub"
+    },
+    {
+      "id": 3,
+      "uuid": 141,
+      "type": "Email",
+      "address": "protonmail.com",
+      "username": "louisbarnett@protonmail.com",
+      "password": "L-~I6pOy42MYY#y",
+      "note": "private mail"
+    },
+    {
+      "id": 4,
+      "uuid": 142,
+      "type": "Web",
+      "address": "office365.com",
+      "username": "ninaviola1",
+      "password": "OfficeSpace##1",
+      "note": "company email"
+    },
+    {
+      "id": 5,
+      "uuid": 142,
+      "type": "Web",
+      "address": "facebook.com",
+      "username": "ninaviola91",
+      "password": "19911991#10",
+      "note": "throwaway fb"
+    },
+    {
+      "id": 6,
+      "uuid": 143,
+      "type": "App",
+      "address": "Netflix",
+      "username": "alvinfisher1979",
+      "password": "efQKL2pJAWDM46L7",
+      "note": "Family Netflix"
+    },
+    {
+      "id": 7,
+      "uuid": 143,
+      "type": "Web",
+      "address": "twitter.com",
+      "username": "alvinfisher1979",
+      "password": "7wYz9pbbaH3S64LG",
+      "note": "old twitter account"
+    },
+    {
+      "id": 8,
+      "uuid": 143,
+      "type": "Email",
+      "address": "outlook.com",
+      "username": "alvinfisher1979@outlook.com",
+      "password": "jJGYu4j8tYakBY9u",
+      "note": "work mail"
+    },
+    {
+      "id": 9,
+      "uuid": 144,
+      "type": "Web",
+      "address": "167.99.202.193",
+      "username": "test",
+      "password": "test",
+      "note": "just testing"
+    }
+  ]
+}
