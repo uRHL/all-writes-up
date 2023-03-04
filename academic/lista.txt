@@ -3,7 +3,7 @@ computer architecture
     OS design
     Distributed systems
 cybersecurity
-    simple cracking challenge
+    [x] simple cracking challenge
 
 Development
     dusty-miner
